@@ -66,3 +66,4 @@ if pergunta:
 
         except Exception as e:
             st.error(f"❌ Erro ao processar a pergunta ou executar a SQL:\n\n{e}")
+            
